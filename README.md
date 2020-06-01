@@ -8,8 +8,8 @@ Il y a des positions dans le dossier example
 Compilation via le Makefile
 
 Pour lancer le projet :
-    - Sur le premier terminale ./navy [position_de_vos_bateau]
-    - Sur le deuxième terminale ./navy [numméro_pid_qui_va_être_affiché_sur_le_premier_terminale] [position_de_vos_bateau]
+- Sur le premier terminale ./navy [position_de_vos_bateau]
+- Sur le deuxième terminale ./navy [numméro_pid_qui_va_être_affiché_sur_le_premier_terminale] [position_de_vos_bateau]
     
 Vidéo Youtube du projet : https://www.youtube.com/watch?v=V3wIRHqOpck
 
